@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Conf2022.html",
+    "href": "Conf2022.html",
+    "title": "The third conference of Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Agvision",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "kaggle2022.html",
+    "href": "kaggle2022.html",
+    "title": "Kaggle competition 2022",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "kaggle2023.html",
+    "href": "kaggle2023.html",
+    "title": "Kaggle competition 2023",
+    "section": "",
+    "text": "About this site"
+  }
+]

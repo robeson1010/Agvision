@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ag-vision"
+  navbar:
+    left:
+      - text: "AI for Agriculture 2023"
+        menu: 
+          - kaggle2023.qmd
+      - text: "AI for Agriculture 2023"
+        menu:
+          - Conf2022.qmd
+          - kaggle2022.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
