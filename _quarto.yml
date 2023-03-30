@@ -5,7 +5,9 @@ project:
 website:
   title: "Ag-vision"
   navbar:
-    left:
+    right:
+      - href: index.qmd
+        text: Home
       - text: "AI for Agriculture 2023"
         menu: 
           - kaggle2023.qmd
