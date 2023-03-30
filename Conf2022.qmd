@@ -1,6 +1,36 @@
 ---
-title: "The third conference of Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases"
+title: "The 3th conference of Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases"
+format:
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    toc: true
+    toc-title: Kaggle competition 2022
+    toc_depth: 2
+    toc-location: left
 ---
+The 3rd Conference on Remote Sensing of Vegetation Pests and Diseases will be hosted from 9:00 am to 5:30 pm, on August 27-28, 2022 (Beijing Time), themed “Protecting Plants and Safeguarding Security” and jointly organized by the Aerospace Information Research Institute, Chinese Academy of Sciences, Anhui University, Manchester Metropolitan University, China Biodiversity Conservation and Green Development Foundation, Chinese Society of Agricultural Engineering, Hangzhou Dianzi University, National Engineering Research Center for Agro-Ecological Big Data Analysis & Application, etc.
 
-About this site
+![](imgs/conf.png){fig-align="center" width="600"}
+
+To facilitate the in-depth applications of remote sensing technology in intelligent plant protection, disaster monitoring and forecasting, ecological security, etc., the cross-disciplinary integration and technology innovations of monitoring, early warning, and prevention and control of vegetation pests and diseases will be fully investigated. It is to promote the theoretical innovations and industrial applications of remote sensing of vegetation pests and diseases, and to build an ecological civilization, pursue the harmonious coexistence of man and nature and build a community of all life on Earth.
+
+The conference will gather scientists from various fields such as remote sensing, plant protection, ecology, environment, meteorology, artificial intelligence, ethics of science and technology, etc. It focuses on the biodiversity protection, green prevention and control of pests and diseases, ecological security assessment of agriculture, forestry, prataculture, etc. The latest scientific achievements and future development trend of theories, models, methods, systems and applications will be deeply explored concerning the remote sensing based key applications of monitoring, early warning, prevention and control of vegetation pests and diseases.
+
+One of the key objectives of the conference is to facilitate cross-disciplinary and industry-academia-research-application integration, and to promote the theoretical research, methodology innovation, technology extension and application demonstration of remote sensing in the field of vegetation pests and diseases. The domestic and international experts and scholars involved in the remote sensing-based studies on vegetation pests and diseases will be invited to present the academic reports during the conference.
+
+# Meeting Time
+27-28 August 2022
+
+# Live Streaming Platform
+The conference will be live streamed on the following platforms:
+
+![](imgs/stream1.png){fig-align="center" width="200"}
+
+![](imgs/stream2.png){fig-align="center" width="600"}
+
+# Publication
+
+The conference will organize a special issue of Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases in Remote Sensing [https://www.mdpi.com/journal/remotesensing/special_issues/early_warning](https://www.mdpi.com/journal/remotesensing/special_issues/early_warning). Remote Sensing has an Impact Factor of 5.349 (2021) and locates in JCR – Q1 (Geosciences, Multidisciplinary) and Q2 of the Division of Chinese Academy of Sciences.
+
 

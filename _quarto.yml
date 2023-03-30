@@ -5,21 +5,20 @@ project:
 website:
   title: "Ag-vision"
   navbar:
+    logo: logo.png
     right:
-      - href: index.qmd
-        text: Home
       - text: "AI for Agriculture 2023"
         menu: 
           - kaggle2023.qmd
-      - text: "AI for Agriculture 2023"
+      - text: "AI for Agriculture 2022"
         menu:
-          - Conf2022.qmd
           - kaggle2022.qmd
+          - Conf2022.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: Cosmo
     css: styles.css
     toc: true
 
