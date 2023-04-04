@@ -1,5 +1,62 @@
 ---
-title: "Kaggle competition 2023"
+title: "Boosting automatic crop type classification using Sentinel satellite data and self-supervised learning"
+description: |
+  Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture
+format:
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    toc: true
+    toc-title: Kaggle competition 2023
+    toc_depth: 2
+    toc-location: left
 ---
+# Overview
 
-About this site
+The Food and Agriculture Organization of the United Nations (FAO) estimates that current agricultural production needs to grow by up to 70 percent by 2050 in order to meet the expected population growth on Earth. This poses a significant challenge for food production, which requires solutions that not only enhance agricultural methods but also adapt them radically to environmental pressures. Big data, machine learning and artificial intelligence (AI) have the potential to play a vital role in this process.
+
+The crop type classification is an important part of agriculture as an industry. Remote sensing data offers large scale, long term, continuous monitoring on the ground and has long been used as an extremely useful tool for crop classification. Identifying crops using traditional supervised learning methods can be a challenging task, as obtaining a large number of ground-truthing training samples is often a time-consuming and laborious work.
+
+
+In recent years, there has been a new research trend to train models without using labels, named Self-supervised learning (SSL). It has been effectively applied in many fields such as computer vision, natural language processing, and object detection. In fact, by extracting representative features from unlabelled data, the SSL algorithm has outperformed supervised pre-training on many problems. In this respect, self-supervised learning is a promising avenue for remote sensing research.
+
+
+In this challenge, we will release a massive remote sensing dataset in cropland area, including multispectral and SAR data for participants to train their self-supervised learning models. A crop classification task will be set up to evaluate the effectiveness of their SSL model.
+
+![](./imgs/KAGGLE.png)
+
+# Challenge keywords
+
+Remote sensing; Self-supervised learning; Crop classification; Deep learning 
+
+# Participation instructions
+
+You can participate in the competition via this link! [Kaggle](https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3)
+
+
+# Workshop/conference
+
+This challenge is part of the conference on XX.
+
+# Publication and Future Plans 
+
+We will write a summary paper of top 5 winning methods to be published in Remote Sensing Special issue on AI for Agriculture.
+
+
+
+# Organisers
+
+![Prof. Liangxiu Han, Manchester Metropolitan University](imgs/mmu.png){fig-align="left" width="100"}
+
+<!-- ![Prof. Wenjiang Huang, Aerospace Information Research Institute, Chinese Academy of Sciences](imgs/air.png){fig-align="left" width="100"} -->
+
+
+# Technical Chairs
+Dr. Xin Zhang, Manchester Metropolitan University
+
+
+Tam Sobieh, Manchester Metropolitan University
+
+# Primary contact
+Liangxiu Han - Email: l.han@mmu.ac.uk
+

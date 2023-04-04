@@ -9,11 +9,14 @@ website:
     right:
       - text: "AI for Agriculture 2023"
         menu: 
-          - kaggle2023.qmd
+          - text: 'Kaggle-2023'
+            file: kaggle2023.qmd
       - text: "AI for Agriculture 2022"
         menu:
-          - kaggle2022.qmd
-          - Conf2022.qmd
+          - text: 'Kaggle-2022'
+            file: kaggle2022.qmd
+          - text:  'Conference-2022'
+            file: Conf2022.qmd
       - about.qmd
 
 format:

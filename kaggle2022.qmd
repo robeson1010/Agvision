@@ -1,7 +1,7 @@
 ---
-title: "Kaggle competition 2022: Beyond Visible Spectrum: AI for Agriculture"
+title: "Automated Crop Disease Diagnosis from Hyperspectral Imagery"
 description: |
-  Automated Crop Disease Diagnosis from Hyperspectral Imagery
+  Kaggle competition 2022: Beyond Visible Spectrum: AI for Agriculture
 format:
   html:
     embed-resources: true
@@ -46,9 +46,11 @@ We will write a summary paper of top 5 winning methods to be published in Remote
 Our goal is to update the dataset with different types of diseases and continue to make it available for research use.
 
 # Organisers
-Prof. Liangxiu Han, Manchester Metropolitan University
 
-Prof. Wenjiang Huang, Aerospace Information Research Institute, Chinese Academy of Sciences
+![Prof. Liangxiu Han, Manchester Metropolitan University](imgs/mmu.png){fig-align="left" width="100"}
+
+![Prof. Wenjiang Huang, Aerospace Information Research Institute, Chinese Academy of Sciences](imgs/air.png){fig-align="left" width="100"}
+
 
 # Technical Chairs
 Dr. Xin Zhang, Manchester Metropolitan University

@@ -2,4 +2,9 @@
 title: "Contact Us"
 ---
 
-About this site
+
+
+# Primary contact
+Liangxiu Han - Email: l.han@mmu.ac.uk
+
+Xin Zhang - Email: x.zhang@mmu.ac.uk
