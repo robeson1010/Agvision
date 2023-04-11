@@ -7,7 +7,7 @@ format:
     embed-resources: true
     smooth-scroll: true
     toc: true
-    toc-title: Kaggle competition 2023
+    toc-title: Kaggle competition 2023 Part 2
     toc_depth: 2
     toc-location: left
 ---

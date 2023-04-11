@@ -1,10 +1,13 @@
 ---
 title: "Contact Us"
+about:
+  template: marquee
 ---
 
 
+<!-- # Primary contact -->
 
-# Primary contact
-Liangxiu Han - Email: l.han@mmu.ac.uk
 
-Xin Zhang - Email: x.zhang@mmu.ac.uk
+Liangxiu Han - Email: l.han\@mmu.ac.uk
+
+<!--  -->

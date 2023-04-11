@@ -9,7 +9,9 @@ website:
     right:
       - text: "AI for Agriculture 2023"
         menu: 
-          - text: 'Kaggle-2023'
+          - text: 'Kaggle-2023 Part 1'
+            file: index.qmd
+          - text: 'Kaggle-2023 Part 2'
             file: kaggle2023.qmd
       - text: "AI for Agriculture 2022"
         menu:
