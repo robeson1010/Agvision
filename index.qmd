@@ -20,11 +20,21 @@ Recent advancements in digital imaging have facilitated the development of a var
 
 Particularly, hyperspectral imagery (HSI), which contains more narrow spectral bands over a contiguous spectral range, provides detailed spectral--spatial information of the disease infestation and offers the potential to provide better diagnostic accuracy.
 
-In this challenge, we will mainly focus on the accurate diagnosis of crop diseases from hyperspectral imagery (in this case, yellow rust disease). The benchmark model for this competition is based on our published paper on remote sensing \[1\].
+In this year, we will host the second kaggle competition that have two parts.
+
+## Part 1
+
+We mainly focus on the accurate diagnosis of crop diseases from hyperspectral imagery (in this case, yellow rust disease). The benchmark model for this competition is based on our published paper on remote sensing \[1\].
 
 [1. A Deep Learning-Based Approach for Automated Yellow Rust Disease Detection from High-Resolution Hyperspectral UAV Images](https://www.mdpi.com/2072-4292/11/13/1554)
 
-![](imgs/hyperspectrel.png){fig-align="center" width="600"}
+![](imgs/hy.png)
+
+## Part 2
+
+We will also host another kaggle competition that will focus on the crop type classification using Sentinel satellite data and self-supervised learning. More information can be seen on [Part2](https://robeson1010.github.io/Agvision/kaggle2023.html).
+
+
 
 # Challenge keywords
 
@@ -32,14 +42,13 @@ Remote sensing; Hyperspectral; Crop disease; Deep learning
 
 # Participation instructions
 
-You can participate in the competition via this link! [https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3](https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3)
-
+You can participate in the competition via this link! <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
 
 # Workshop/conference
 
-This challenge is part of the conference on “” in Aug 2023.
+This challenge is part of the conference on "" in Aug 2023.
 
-# Publication and Future Plans 
+# Publication and Future Plans
 
 We will write a summary paper of top 5 winning methods to be published in Remote Sensing Special issue of "Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases".
 
@@ -51,17 +60,18 @@ Our goal is to update the dataset with different types of diseases and continue 
 
 ![Prof. Wenjiang Huang, Aerospace Information Research Institute, Chinese Academy of Sciences](imgs/air.png){fig-align="left" width="100"}
 
-
 # Technical Chairs
+
 Dr. Xin Zhang, Manchester Metropolitan University
 
-Dr.  Yue Shi, Manchester Metropolitan University
+Dr. Yue Shi, Manchester Metropolitan University
 
 Dr. Yingying, Dong Aerospace Information Research Institute, Chinese Academy of Sciences
 
 Tam Sobieh, Manchester Metropolitan University
 
 # Primary contact
-Liangxiu Han - Email: l.han@mmu.ac.uk
 
-Wenjiang Huang - Email: huangwj@radi.ac.cn
+Liangxiu Han - Email: l.han\@mmu.ac.uk
+
+Wenjiang Huang - Email: huangwj\@radi.ac.cn
