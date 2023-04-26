@@ -1,7 +1,7 @@
 ---
-title: "Automated Crop Disease Diagnosis from Hyperspectral Imagery"
+title: "Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture"
 description: |
-  Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture
+  Automated Crop Disease Diagnosis from Hyperspectral Imagery
 format:
   html:
     embed-resources: true
@@ -12,7 +12,14 @@ format:
     toc-location: left
 ---
 
+
 # Overview
+
+To facilitate the global collaboration across a wide range of communities and promote development of novel AI-enabled applications in agriculture, forestry and grassland, addressing food security and sustainability, we will continue hold the second kaggle competition that consists of two parts including 1) Automated Crop Disease Diagnosis from Hyperspectral Imagery; 2) Boosting automatic crop type classification using Sentinel satellite data and self-supervised learning.
+
+
+
+## Part 1 Automated Crop Disease Diagnosis from Hyperspectral Imagery
 
 Early accurate diagnosis and quantification of crop diseases are crucial for precision management by allowing targeted interventions at the field level. Effective diagnosis and control measures are dependent on symptom recognition and severity assessment (in the vast majority of cases, diseases exhibit a range of visual symptoms, e.g. coloured spots or streaks). At present, these are mainly achieved by visual observation and estimation.
 
@@ -20,33 +27,48 @@ Recent advancements in digital imaging have facilitated the development of a var
 
 Particularly, hyperspectral imagery (HSI), which contains more narrow spectral bands over a contiguous spectral range, provides detailed spectral--spatial information of the disease infestation and offers the potential to provide better diagnostic accuracy.
 
-In this year, we will host the second kaggle competition that have two parts.
-
-## Part 1
-
-We mainly focus on the accurate diagnosis of crop diseases from hyperspectral imagery (in this case, yellow rust disease). The benchmark model for this competition is based on our published paper on remote sensing \[1\].
+In this challenge, we will provide a hyperspectral image dataset of wheat fields with yellow rust disease. We mainly focus on the accurate diagnosis of crop diseases from hyperspectral imagery (in this case, yellow rust disease). The benchmark model for this competition is based on our published paper on remote sensing \[1\].
 
 [1. A Deep Learning-Based Approach for Automated Yellow Rust Disease Detection from High-Resolution Hyperspectral UAV Images](https://www.mdpi.com/2072-4292/11/13/1554)
 
 ![](imgs/hy.png)
 
-## Part 2
+## Part 2 Boosting automatic crop type classification using Sentinel satellite data and self-supervised learning
 
-We will also host another kaggle competition that will focus on the crop type classification using Sentinel satellite data and self-supervised learning. More information can be seen on [Part2](https://robeson1010.github.io/Agvision/kaggle2023.html).
 
+The Food and Agriculture Organization of the United Nations (FAO) estimates that current agricultural production needs to grow by up to 70 percent by 2050 in order to meet the expected population growth on Earth. This poses a significant challenge for food production, which requires solutions that not only enhance agricultural methods but also adapt them radically to environmental pressures. Big data, machine learning and artificial intelligence (AI) have the potential to play a vital role in this process.
+
+The crop type classification is an important part of agriculture as an industry. Remote sensing data offers large scale, long term, continuous monitoring on the ground and has long been used as an extremely useful tool for crop classification. Identifying crops using traditional supervised learning methods can be a challenging task, as obtaining a large number of ground-truthing training samples is often a time-consuming and laborious work.
+
+
+In recent years, there has been a new research trend to train models without using labels, named Self-supervised learning (SSL). It has been effectively applied in many fields such as computer vision, natural language processing, and object detection. In fact, by extracting representative features from unlabelled data, the SSL algorithm has outperformed supervised pre-training on many problems. In this respect, self-supervised learning is a promising avenue for remote sensing research.
+
+
+In this challenge, we will release a massive remote sensing dataset in cropland area, including multispectral and SAR data for participants to train their self-supervised learning models. A crop classification task will be set up to evaluate the effectiveness of their SSL model.
+
+![](./imgs/KAGGLE.png)
+
+# Challenge keywords
+
+Remote sensing; Deep learning 
 
 
 # Challenge keywords
 
-Remote sensing; Hyperspectral; Crop disease; Deep learning
+Remote sensing; Hyperspectral; Crop disease; Self-supervised learning; Crop classification; Deep learning
 
 # Participation instructions
 
-You can participate in the competition via this link! <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
+You can participate in the competition via this link! 
+
+
+Part1: <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
+
+Part2: <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
 
 # Workshop/conference
 
-This challenge is part of the conference on "" in Aug 2023.
+This challenge is part of the conference on "The 4th Conference on Remote Sensing of Vegetation Pests and Diseases (2023)" in Aug 2023.
 
 # Publication and Future Plans
 

@@ -1,7 +1,7 @@
 ---
-title: "Boosting automatic crop type classification using Sentinel satellite data and self-supervised learning"
+title: "Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture"
 description: |
-  Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture
+  Boosting automatic crop type classification using Sentinel satellite data and self-supervised learning
 format:
   html:
     embed-resources: true
