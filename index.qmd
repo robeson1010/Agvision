@@ -62,7 +62,7 @@ Remote sensing; Hyperspectral; Crop disease; Self-supervised learning; Crop clas
 You can participate in the competition via this link! 
 
 
-Part1: <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
+Part1: <https://www.kaggle.com/t/a76501db670b4588891c917a1b245075>
 
 Part2: <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
 
@@ -85,8 +85,6 @@ Our goal is to update the dataset with different types of diseases and continue 
 # Technical Chairs
 
 Dr. Xin Zhang, Manchester Metropolitan University
-
-Dr. Yue Shi, Manchester Metropolitan University
 
 Dr. Yingying, Dong Aerospace Information Research Institute, Chinese Academy of Sciences
 
