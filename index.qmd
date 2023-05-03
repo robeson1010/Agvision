@@ -48,9 +48,6 @@ In this challenge, we will release a massive remote sensing dataset in cropland 
 
 ![](./imgs/KAGGLE.png)
 
-# Challenge keywords
-
-Remote sensing; Deep learning 
 
 
 # Challenge keywords
@@ -64,7 +61,7 @@ You can participate in the competition via this link!
 
 Part1: <https://www.kaggle.com/t/a76501db670b4588891c917a1b245075>
 
-Part2: <https://www.kaggle.com/t/6d3b3a62cd8042109ffaae9e687452a3>
+Part2: <https://www.kaggle.com/t/beb5449750ca4c85bf7c166698f2833b>
 
 # Workshop/conference
 
