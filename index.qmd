@@ -1,7 +1,7 @@
 ---
 title: "Kaggle competition 2023: Beyond Visible Spectrum: AI for Agriculture"
 description: |
-  Automated Crop Disease Diagnosis from Hyperspectral Imagery
+
 format:
   html:
     embed-resources: true
@@ -67,6 +67,8 @@ Part2: <https://www.kaggle.com/t/beb5449750ca4c85bf7c166698f2833b>
 
 This challenge is part of the conference on "The 4th Conference on Remote Sensing of Vegetation Pests and Diseases (2023)" in Aug 2023.
 
+<https://mp.weixin.qq.com/s/ekwO9cDZfUhAsR-jJpCmTA>
+
 # Publication and Future Plans
 
 We will write a summary paper of top 5 winning methods to be published in Remote Sensing Special issue of "Monitoring, Early Warning, and Scientific Management of Vegetation Pests and Diseases".
@@ -83,9 +85,11 @@ Our goal is to update the dataset with different types of diseases and continue 
 
 Dr. Xin Zhang, Manchester Metropolitan University
 
-Dr. Yingying, Dong Aerospace Information Research Institute, Chinese Academy of Sciences
+Dr. Yingying Dong, Aerospace Information Research Institute, Chinese Academy of Sciences
 
 Tam Sobieh, Manchester Metropolitan University
+
+Dr. Yue Shi, Manchester Metropolitan University
 
 # Primary contact
 
