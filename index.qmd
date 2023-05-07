@@ -29,7 +29,7 @@ Particularly, hyperspectral imagery (HSI), which contains more narrow spectral b
 
 In this challenge, we will provide a hyperspectral image dataset of wheat fields with yellow rust disease. We mainly focus on the accurate diagnosis of crop diseases from hyperspectral imagery (in this case, yellow rust disease). The benchmark model for this competition is based on our published paper on remote sensing \[1\].
 
-[1. A Deep Learning-Based Approach for Automated Yellow Rust Disease Detection from High-Resolution Hyperspectral UAV Images](https://www.mdpi.com/2072-4292/11/13/1554)
+[1. Zhang, X.; Han, L.; Dong, Y.; Shi, Y.; Huang, W.; Han, L.; González-Moreno, P.; Ma, H.; Ye, H.; Sobeih, T. A Deep Learning-Based Approach for Automated Yellow Rust Disease Detection from High-Resolution Hyperspectral UAV Images. Remote Sens. 2019, 11, 1554.](https://www.mdpi.com/2072-4292/11/13/1554)
 
 ![](imgs/hy.png)
 
@@ -41,10 +41,12 @@ The Food and Agriculture Organization of the United Nations (FAO) estimates that
 The crop type classification is an important part of agriculture as an industry. Remote sensing data offers large scale, long term, continuous monitoring on the ground and has long been used as an extremely useful tool for crop classification. Identifying crops using traditional supervised learning methods can be a challenging task, as obtaining a large number of ground-truthing training samples is often a time-consuming and laborious work.
 
 
-In recent years, there has been a new research trend to train models without using labels, named Self-supervised learning (SSL). It has been effectively applied in many fields such as computer vision, natural language processing, and object detection. In fact, by extracting representative features from unlabelled data, the SSL algorithm has outperformed supervised pre-training on many problems. In this respect, self-supervised learning is a promising avenue for remote sensing research.
+In recent years, there has been a new research trend to train models without using labels, named Self-supervised learning (SSL). It has been effectively applied in many fields such as computer vision, natural language processing, and object detection. In fact, by extracting representative features from unlabelled data, the SSL algorithm has outperformed supervised pre-training on many problems. In this respect, self-supervised learning is a promising avenue for remote sensing research  \[2\].
 
 
 In this challenge, we will release a massive remote sensing dataset in cropland area, including multispectral and SAR data for participants to train their self-supervised learning models. A crop classification task will be set up to evaluate the effectiveness of their SSL model.
+
+[2. Zhang, X.; Han, L.; Sobeih, T.; Lappin, L.; Lee, M.A.; Howard, A.; Kisdi, A. The Self-Supervised Spectral–Spatial Vision Transformer Network for Accurate Prediction of Wheat Nitrogen Status from UAV Imagery. Remote Sens. 2022, 14, 1400.](https://www.mdpi.com/2072-4292/14/6/1400)
 
 ![](./imgs/KAGGLE.png)
 
